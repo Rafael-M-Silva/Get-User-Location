@@ -1,7 +1,7 @@
 <h1 align="center"> Get User Location </h1>
 
 <p align="center">
-Projeto 06 Javascript - faculdade flamingo.
+Projeto 06 pag 2 Javascript - faculdade flamingo.
 </p>
 
 <p align="center">
